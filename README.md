@@ -1,5 +1,5 @@
 # optimal_decisions
-The purpose of this repository is to showcase my passion for Automated Decision Making Under Uncertainity.<br>
+The purpose of this repository is to showcase my passion for automated optimal decision making under uncertainity.<br>
 This document showcases some modern Multi-Criteria Decision Analysis (MCDA) algorithms <br>
 .ipynb file contains code to demonstrate the MCDA algorithms discussed in the paper can easily be run through google collab through google drive<br>
 .pdf file contains the research paper <br>
