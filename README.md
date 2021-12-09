@@ -1,5 +1,5 @@
 # optimal_decisions
-The purpose of this repository is to showcase my passion for automated optimal decision making under uncertainity. My research interests are in engineering agents that can automatically make intelligent decisions. <br>
+The purpose of this repository is to showcase my passion for automated optimal decision making under uncertainity.
 This document showcases some modern Multi-Criteria Decision Analysis (MCDA) algorithms <br>
 .ipynb file contains code to demonstrate the MCDA algorithms discussed in the paper can easily be run through google collab through google drive<br>
 .pdf file contains the research paper <br>
